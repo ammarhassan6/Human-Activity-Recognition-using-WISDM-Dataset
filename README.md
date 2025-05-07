@@ -83,9 +83,15 @@ Attributes:
 
 - Confusion matrix heatmap (for SVM and KMeans)
 
-
 ## 🛠️ Tech Stack
 
-| Language | Python |
-| Libraries | pandas | numpy | matplotlib | seaborn | scikit-learn |
+**Language:**  
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+
+**Libraries Used:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-2E8BC0?logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 
